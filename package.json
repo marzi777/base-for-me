@@ -1,0 +1,11 @@
+{
+  "name": "base-linea-experiment",
+  "version": "0.0.1",
+  "description": "Small test project exploring Base & Linea networks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
